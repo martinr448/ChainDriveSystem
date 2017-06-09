@@ -27,6 +27,7 @@
 		5B06452C1EE81F0F00453065 /* SprocketNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0645231EE81DE400453065 /* SprocketNode.swift */; };
 		5B06452D1EE81F0F00453065 /* LinkNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0645251EE81DFB00453065 /* LinkNode.swift */; };
 		5B06452E1EE81F0F00453065 /* ChainDriveScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0645271EE81E1D00453065 /* ChainDriveScene.swift */; };
+		5BD703631EEB4E5F00382AB9 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5BD703621EEB4E5F00382AB9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		5B0645231EE81DE400453065 /* SprocketNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SprocketNode.swift; sourceTree = "<group>"; };
 		5B0645251EE81DFB00453065 /* LinkNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkNode.swift; sourceTree = "<group>"; };
 		5B0645271EE81E1D00453065 /* ChainDriveScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChainDriveScene.swift; sourceTree = "<group>"; };
+		5BD703621EEB4E5F00382AB9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 		5B0644E31EE81D7600453065 = {
 			isa = PBXGroup;
 			children = (
+				5BD703621EEB4E5F00382AB9 /* README.md */,
 				5B0644E81EE81D7700453065 /* Shared */,
 				5B0644F31EE81D7800453065 /* iOS */,
 				5B0645041EE81D7800453065 /* macOS */,
@@ -232,6 +235,7 @@
 				5B0644F71EE81D7800453065 /* GameViewController.swift in Sources */,
 				5B0645201EE81DB800453065 /* Sprocket.swift in Sources */,
 				5B0645221EE81DD000453065 /* ChainDrive.swift in Sources */,
+				5BD703631EEB4E5F00382AB9 /* README.md in Sources */,
 				5B0644F51EE81D7800453065 /* AppDelegate.swift in Sources */,
 				5B0645281EE81E1D00453065 /* ChainDriveScene.swift in Sources */,
 			);
